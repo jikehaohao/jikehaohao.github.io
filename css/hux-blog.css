@@ -1017,7 +1017,7 @@ samp {
 .intro-header .post-heading,
 .intro-header .page-heading {
   padding: 85px 0 55px;
-  color: white;
+  color: burlywood;
 }
 @media only screen and (min-width: 768px) {
   .intro-header .site-heading,
