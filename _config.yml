@@ -100,39 +100,22 @@ page-mathjax: false
 
 
 # Friends
-friends: [
+friends-url: [
     {
-    #     title: "Su",
-    #     href: "http://su.gallery/"
-    # },{
-        title: "乱序",
-        href: "http://mida.re/"
+        title: "鸟哥Linux私房菜篇",
+        href: "http://linux.vbird.org/"
     },{
-        title: "前端外刊评论",
-        href: "http://qianduan.guru/"
+        title: "菜鸟奔袭",
+        href: "http://www.runoob.com/"
     },{
-        title: "天镶的博客",
-        href: "http://lingyu.wang/"
+        title: "博客园创想天地",
+        href: "https://i.cnblogs.com/posts/"
     },{
-        title: "Luke 的自留地",
-        href: "http://hmqk1995.github.io"
+        title: "前端组件大全",
+        href: "https://v3.bootcss.com/components/"
     },{
-        title: "Ebn's Blog",
-        href: "http://ebnbin.com/"
-    },{
-        title: "SmdCn's Blog",
-        href: "http://blog.smdcn.net"
-    },{
-        title: "David's Game",
-        href: "https://www.ruoyaowu.com/"
-    },{
-        title: "DHong Say",
-        href: "http://dhong.co"
-    },{
-        title: "尹峰以为",
-        href: "http://ingf.github.io/"
-    },{
-        title: "解旻的博客",
-        href: "http://xieminis.me/"
+        title: "前端在线",
+        href: "https://runjs.cn/code"
     }
 ]
+
