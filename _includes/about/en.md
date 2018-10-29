@@ -1,8 +1,8 @@
 Yet another man.
 
-Hi, I am @huxpro (Huang, Xuan), a software engineer & a designer. I am currently working on Reason and Messenger.com at Facebook. I previously worked as Web Front-End Engineer at Alibaba Trip; Web Front-End Infrastructure Team Lead at Wepiao.com; And Invited Consultant on PWA at Ele.me.
+Hi, I am @jikehaohao (chen, haoxin), a software engineer & a designer. I am currently working on Software engineer at Finup.
 
-I studied Digital Media Art and graduated from Communication University of China by 2016, and am studying Computer Science at Rochester Institute of Technology from 2017.
+I studied Communication engineering and graduated from HarBin University of Science and Technology by 2018.
 
 Talks
 Upgrading to Progressive Web Apps · JSConf China Shanghai 2017
