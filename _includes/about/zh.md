@@ -10,9 +10,9 @@ Hey，我是陈浩鑫，海贼迷，程序猿，一个不会停下来的小陀�
 
 ##### Talks
 
-- 个人博客
-- 个人微博
-- 知乎账号
+- 个人博客 https://jikehaohao.github.io
+- 个人微博 //weibo.com/chenhaoxinrepo
+- 知乎账号 www.zhihu.com/people/chenhaoxinrepo
 
 
 [1]: //jikehaohao.github.io
