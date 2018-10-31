@@ -3,15 +3,13 @@ layout:     post
 title:      "「知乎」设计师如何学习前端？"
 subtitle:   "How designers learn front-end development?"
 date:       2015-10-28 12:00:00
-author:     "Hux"
+author:     "##"
 header-img: "img/home-bg-o.jpg"
 tags:
     - 知乎
     - Web
     - UX/UI 
 ---
-
-> 这篇文章转载自[我在知乎上的回答](https://www.zhihu.com/question/21921588/answer/69680480)，也被刊登于[优秀网页设计](http://www.uisdc.com/head-first-front-end)等多个网站上 ;)
 
 
 笔者的经历在知乎就可以看到，大学专业是数字媒体艺术，大一实习过动效设计师，大二拿到了人生第一个大公司 offer 是阿里的交互设计，后来转岗到淘宝旅行的前端团队，现在在微信电影票做前端研发。
