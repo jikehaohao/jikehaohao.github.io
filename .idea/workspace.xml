@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81dc2d80-14a0-478e-8ea1-18bbe7cba0da" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2014-01-29-hello-2015.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2014-01-29-hello-2015.markdown" afterDir="false" />
-    </list>
+    <list default="true" id="81dc2d80-14a0-478e-8ea1-18bbe7cba0da" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,8 +64,8 @@
       <file leaf-file-name="2014-01-29-hello-2015.markdown" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2014-01-29-hello-2015.markdown">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="52" column="10" selection-start-line="52" selection-start-column="10" selection-end-line="52" selection-end-column="10" />
+            <state relative-caret-position="405">
+              <caret line="27" column="39" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -445,11 +443,33 @@
       <option name="project" value="LOCAL" />
       <updated>1540980288747</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="fetal:&quot;修改&quot;">
+      <created>1540983075144</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1540983075144</updated>
+    </task>
+    <task id="LOCAL-00030" summary="fetal:&quot;修改&quot;">
+      <created>1540983151036</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1540983151036</updated>
+    </task>
+    <task id="LOCAL-00031" summary="fetal:&quot;修改&quot;">
+      <created>1540983260464</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1540983260464</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="127" y="23" width="1198" height="875" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -489,7 +509,8 @@
     <MESSAGE value="fetal:&quot;联系方式&quot;" />
     <MESSAGE value="fetal:&quot;提交代码&quot;" />
     <MESSAGE value="fetal:&quot;提交图片&#10;&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="fetal:&quot;提交图片&#10;&quot;" />
+    <MESSAGE value="fetal:&quot;修改&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="fetal:&quot;修改&quot;" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/_posts/2016-06-05-pwa-in-my-pov.markdown">
@@ -732,8 +753,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2014-01-29-hello-2015.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="52" column="10" selection-start-line="52" selection-start-column="10" selection-end-line="52" selection-end-column="10" />
+        <state relative-caret-position="405">
+          <caret line="27" column="39" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
         </state>
       </provider>
     </entry>
