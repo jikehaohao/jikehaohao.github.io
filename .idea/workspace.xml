@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81dc2d80-14a0-478e-8ea1-18bbe7cba0da" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="81dc2d80-14a0-478e-8ea1-18bbe7cba0da" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,34 +56,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2015-10-28-how-designer-learn-fe.markdown" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2015-10-28-how-designer-learn-fe.markdown">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2015-12-15-ios9-safari-web.markdown" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2015-12-15-ios9-safari-web.markdown">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tag-bg.jpg" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/img/tag-bg.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="478">
-              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+            <state relative-caret-position="259">
+              <caret line="94" lean-forward="true" selection-start-line="94" selection-end-line="94" />
             </state>
           </provider>
         </entry>
@@ -104,7 +79,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>For</find>
-      <find />
+      <find>努力  不服输 爱拼  极客</find>
       <find>努力的人永远幸运</find>
       <find>hU</find>
       <find>Powerer</find>
@@ -117,19 +92,19 @@
       <find>repo</find>
       <find>Mini-About-Me</find>
       <find>Mini</find>
-      <find />
-      <find />
+      <find>git clone git@github.com:Huxpro/huxblog-boilerplate.git</find>
+      <find>View Live Hux Blog</find>
       <find>portfolio</find>
-      <find />
+      <find>我干了什么 究竟拿了时间换了什么</find>
       <find>rgb</find>
       <find>site-heading</find>
       <find>subheading</find>
       <find>col-md-offset-1</find>
-      <find />
+      <find>hUX 随想录</find>
       <find>archives</find>
-      <find />
-      <find />
-      <find />
+      <find>keep hu</find>
+      <find>hello 2015</find>
+      <find>Hux 后记于 2015.10</find>
       <find>程序员中的</find>
       <find>知乎</find>
       <find>Hux</find>
@@ -178,7 +153,7 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="71" />
+    <option name="x" value="94" />
     <option name="y" value="23" />
     <option name="width" value="1277" />
     <option name="height" value="875" />
@@ -517,11 +492,18 @@
       <option name="project" value="LOCAL" />
       <updated>1540985025903</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="fetal:&quot;修改封面&quot;">
+      <created>1540985681678</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1540985681678</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="142" y="25" width="1277" height="875" extended-state="0" />
+    <frame x="94" y="23" width="1277" height="875" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -778,13 +760,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="478">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/about-bg.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -795,10 +770,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-06-30-dreamer.md">
+    <entry file="file://$PROJECT_DIR$/img/tag-bg.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2015-12-15-ios9-safari-web.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        <state relative-caret-position="105">
+          <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -809,15 +787,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2015-12-15-ios9-safari-web.markdown">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-06-30-dreamer.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="135">
+          <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/tag-bg.jpg">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="94" lean-forward="true" selection-start-line="94" selection-end-line="94" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
