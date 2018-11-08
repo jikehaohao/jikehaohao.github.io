@@ -3,39 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="81dc2d80-14a0-478e-8ea1-18bbe7cba0da" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2014-01-29-hello-2015.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-11-08-hello-2018.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2014-08-16-miui6.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2014-08-16-miui6.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2014-09-04-is-pure-android-better.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2014-09-04-is-pure-android-better.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2014-10-01-why-alibaba-ux-sucks.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2014-10-01-why-alibaba-ux-sucks.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2014-11-20-responsive-web-design.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2014-11-20-responsive-web-design.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2014-12-13-wechat-block-kuaidi.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2014-12-13-wechat-block-kuaidi.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-03-10-apple-event-2015.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2015-03-10-apple-event-2015.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-04-14-unix-linux-note.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2015-04-14-unix-linux-note.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-05-25-js-module-loader.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2015-05-25-js-module-loader.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-06-15-alitrip-strategy.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2015-06-15-alitrip-strategy.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-07-09-js-module-7day.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2015-07-09-js-module-7day.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-09-22-js-version.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2015-09-22-js-version.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-10-28-how-designer-learn-fe.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2015-10-28-how-designer-learn-fe.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-12-15-ios9-safari-web.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2015-12-15-ios9-safari-web.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-12-28-css-sucks-2015.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2015-12-28-css-sucks-2015.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-02-01-React-vs-Angular2.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2016-02-01-React-vs-Angular2.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-06-05-pwa-in-my-pov.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2016-06-05-pwa-in-my-pov.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-09-22-the-open-web.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2016-09-22-the-open-web.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-10-20-pwa-qcon2016.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2016-10-20-pwa-qcon2016.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-11-20-sw-101-gdgdf.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2016-11-20-sw-101-gdgdf.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-01-09-wechat-miniapp-ux.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-01-09-wechat-miniapp-ux.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-02-09-nextgen-web-pwa.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-02-09-nextgen-web-pwa.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-04-06-html-document.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-04-06-html-document.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-05-28-sw-precache.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-05-28-sw-precache.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-06-25-you-are-slaves.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-07-12-upgrading-eleme-to-pwa.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-07-12-upgrading-eleme-to-pwa.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-07-26-farewell-flash.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-07-26-farewell-flash.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-10-06-css-complaints.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-10-06-css-complaints.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-12-12-halting-problem.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-12-12-halting-problem.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-12-12-uncomputable-funcs.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-12-12-uncomputable-funcs.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-06-30-dreamer.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-06-30-dreamer.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-09-27-avoiding-success-at-all-cost.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-09-27-avoiding-success-at-all-cost.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-10-06-vim-cn-im.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-10-06-vim-cn-im.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-08-16-miui6.markdown" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -46,15 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2017-12-12-halting-problem.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-12-12-halting-problem.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="2017-12-12-uncomputable-funcs.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2017-12-12-uncomputable-funcs.md">
           <provider selected="true" editor-type-id="text-editor">
@@ -82,56 +41,56 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018-10-06-vim-cn-im.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="2018-10-06-vim-cn-im.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2018-10-06-vim-cn-im.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+            <state relative-caret-position="255">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2014-08-16-miui6.markdown" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2014-08-16-miui6.markdown">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="36" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2017-05-28-sw-precache.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-05-28-sw-precache.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2017-07-12-upgrading-eleme-to-pwa.markdown" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-07-12-upgrading-eleme-to-pwa.markdown">
+      <file leaf-file-name="2014-10-01-why-alibaba-ux-sucks.markdown" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2014-10-01-why-alibaba-ux-sucks.markdown">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+              <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-07-26-farewell-flash.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-07-26-farewell-flash.md">
+      <file leaf-file-name="zh.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/about/zh.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-403">
-              <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+            <state relative-caret-position="195">
+              <caret line="13" column="39" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-10-06-css-complaints.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-10-06-css-complaints.md">
+      <file leaf-file-name="zh.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/posts/2017-07-12-upgrading-eleme-to-pwa/zh.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+            <state relative-caret-position="255">
+              <caret line="17" column="79" lean-forward="true" selection-start-line="17" selection-start-column="79" selection-end-line="17" selection-end-column="79" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.zh.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.zh.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="223" selection-start-line="223" selection-end-line="223" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="en.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/about/en.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="41" lean-forward="true" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -140,9 +99,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>For</find>
-      <find />
-      <find>努力的人永远幸运</find>
       <find>hU</find>
       <find>Powerer</find>
       <find>PORTFOLIO</find>
@@ -154,22 +110,25 @@
       <find>repo</find>
       <find>Mini-About-Me</find>
       <find>Mini</find>
-      <find />
-      <find />
+      <find>git clone git@github.com:Huxpro/huxblog-boilerplate.git</find>
+      <find>View Live Hux Blog</find>
       <find>portfolio</find>
-      <find />
+      <find>我干了什么 究竟拿了时间换了什么</find>
       <find>rgb</find>
       <find>site-heading</find>
       <find>subheading</find>
       <find>col-md-offset-1</find>
-      <find />
+      <find>hUX 随想录</find>
       <find>archives</find>
-      <find />
-      <find />
-      <find />
+      <find>keep hu</find>
+      <find>hello 2015</find>
+      <find>Hux 后记于 2015.10</find>
       <find>程序员中的</find>
       <find>知乎</find>
       <find>Hux</find>
+      <find>阿里</find>
+      <find>去年5</find>
+      <find>2015-05-</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -243,8 +202,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="127" />
-    <option name="y" value="41" />
+    <option name="x" value="222" />
+    <option name="y" value="35" />
     <option name="width" value="1277" />
     <option name="height" value="875" />
   </component>
@@ -266,17 +225,29 @@
             <path>
               <item name="jikehaohao.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="jikehaohao.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_includes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jikehaohao.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jikehaohao.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_includes" type="462c0819:PsiDirectoryNode" />
+              <item name="about" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jikehaohao.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jikehaohao.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_includes" type="462c0819:PsiDirectoryNode" />
+              <item name="posts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jikehaohao.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jikehaohao.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_layouts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="jikehaohao.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="jikehaohao.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jikehaohao.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jikehaohao.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -608,11 +579,18 @@
       <option name="project" value="LOCAL" />
       <updated>1541070248283</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="fetal:&quot;修改&quot;">
+      <created>1541660382273</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1541660382273</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="94" y="23" width="1277" height="875" extended-state="0" />
+    <frame x="222" y="35" width="1277" height="875" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -625,6 +603,7 @@
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18245889" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -635,7 +614,6 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -658,27 +636,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="fetal:&quot;修改&quot;" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/about/en.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="41" lean-forward="true" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/feed.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -697,13 +654,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="8715">
           <caret line="581" column="20" selection-start-line="581" selection-start-column="20" selection-end-line="581" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/about/zh.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="39" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -752,13 +702,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2014-09-04-is-pure-android-better.markdown">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2014-10-01-why-alibaba-ux-sucks.markdown">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
@@ -961,17 +904,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-10-06-vim-cn-im.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2014-10-01-why-alibaba-ux-sucks.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+        <state relative-caret-position="75">
+          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/about/en.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="41" lean-forward="true" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/about/zh.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="39" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/posts/2017-07-12-upgrading-eleme-to-pwa/zh.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="79" lean-forward="true" selection-start-line="17" selection-start-column="79" selection-end-line="17" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.zh.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="223" selection-start-line="223" selection-end-line="223" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2014-08-16-miui6.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="36" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="36" />
+        <state relative-caret-position="120">
+          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-10-06-vim-cn-im.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
